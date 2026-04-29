@@ -1,0 +1,20 @@
+{
+  "name": "MedConnect",
+  "short_name": "MedConnect",
+  "description": "Find medicines at nearby pharmacies and reserve with ease.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0fdfa",
+  "theme_color": "#0d9488",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "medical"],
+  "lang": "en"
+}
